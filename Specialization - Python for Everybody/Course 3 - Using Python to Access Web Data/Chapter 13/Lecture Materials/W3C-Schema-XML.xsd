@@ -1,0 +1,22 @@
+<xs:complexType name="person">
+    <xs:sequence>
+        <xs:element name="lastname" type="xs.string"/>
+        <xs:element name="age" type="xs.integer"/>
+        <xs:element name="datebornn" type="xs.date"/>
+    </xs:sequence>
+</xs:complexType name="person">
+
+<xs:element name="person">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="full_name" type="xs:string" minOccurs="1" maxOccurs="1" />
+            <xs:element name="child_name" type="xs:string" minOccurs="0" maxOccurs="10" />
+        </xs:element name="person">
+    </xs:complexType>
+</xs:sequence>
+
+<xs:element name="customer" type="xs:string"/>
+<xs:element name="start" type="xs:date"/>
+<xs:element name="startdate" type="xs:dateTime"/>
+<xs:element name="prize" type="xs:decimal"/>
+<xs:element name="weeks" type="xs:integer"/>

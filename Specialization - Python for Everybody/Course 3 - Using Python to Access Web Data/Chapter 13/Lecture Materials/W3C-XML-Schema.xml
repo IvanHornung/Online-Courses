@@ -1,0 +1,25 @@
+<person>
+    <lastname>Severance</lastname>
+    <age>17</age>
+    <dateborn>2001-04-17</dateborn>
+</person>
+
+<person>
+    <lastname>Severance</lastname>
+    <age>17</age>
+    <dateborn>2001-04-17</dateborn>
+</person>
+
+<person>
+    <full_name>Tove Refsnes</full_name>
+    <child_name>Hege</child_name>
+    <child_name>Stale</child_name>
+    <child_name>Jim</child_name>
+    <child_name>Borge</child_name>
+</person>
+
+<customer>John Smith</customer>
+<start>2002-09-24</start>
+<startdate>2002-05-30T09:30:10Z</startdate>
+<prize>999.50</prize>
+<weeks>30</weeks>

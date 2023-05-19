@@ -1,0 +1,7 @@
+This chapter consists of very basic, intro-intro level concepts:
+"Why we Program?", "Installing and Using Python", "Why We Program (continued)"
+
+If I find some content in this chapter to be useful in the future, I will edit this message and insert the valuable content.
+For now, though, this directory is a placeholder to maintain parallelism within the Course 1 folder.
+
+Continue on Chpater 2

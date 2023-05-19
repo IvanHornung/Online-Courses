@@ -1,0 +1,37 @@
+<!--XML "Elements" (or Nodes)-->
+<people> <!--Tag-->
+    <person>
+        <name>Chuck</name>          <!--Simple Element-->
+        <phone>303 4456</phone>     <!---->
+    </person>
+    <person>                        <!--Complex-->
+        <name>Noah</name>
+        <phone>622 7421</phone> <!--(element or node)-->
+    </person>                       <!--Element-->
+</people> <!--Ending tag-->
+
+<!--Some XML...-->
+<recipe name="bread" prep_time="5 mins" cook_time="3 hours">
+    <title>Basic bread</title>
+    <ingredient amount="8" unit="dL">Flour</ingredient>
+    <ingredient amount="10" unit="grams">Yeast</ingredient>
+    <ingredient amount="4" unit="dL" state="warm">Water</ingredient>
+    <ingredient amount="1" unit="teaspoon">Salt</ingredient>
+    <instructions>
+        <step>Mix all the ingredients together.</step>
+        <step>Knead thoroughly.</step>
+        <step>Cover with a cloth, and leave for one hour in warm room.</step>
+        <step>Knead again.</step>
+        <step>Place in a bread baking tin.</step>
+        <step>Cover with a cloth, and leave for one hour in warm room.</step>
+        <step>Bake in the over at 180(degrees)C for 30 minutes.</step>
+    </instructions>
+</recipe>
+        
+<a>
+    <b w="5">X</b>
+    <c>
+        <d>Y</d>
+        <e>Z</e>
+    </c>
+</a>
